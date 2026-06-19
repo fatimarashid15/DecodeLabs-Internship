@@ -198,3 +198,47 @@ footer {
     font-size: 13px;
     color: #888;
 }
+
+/* ===== MOBILE RESPONSIVE ===== */
+@media (max-width: 768px) {
+
+    nav {
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+    }
+
+    nav ul {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .hero h2 {
+        font-size: 28px;
+    }
+
+    .hero p {
+        font-size: 14px;
+    }
+
+    .product-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .products {
+        padding: 40px 20px;
+    }
+
+    .about {
+        padding: 40px 20px;
+    }
+
+    .contact {
+        padding: 40px 20px;
+    }
+
+    footer {
+        padding: 20px;
+    }
+}
