@@ -3,10 +3,6 @@
 A beautifully designed static fashion e-commerce website built with pure HTML & CSS.
 Inspired by premium Pakistani brands like Khaadi.
 
-**🚀 Live Demo**
-
-You can view the live website here: https://fatimarashid15.github.io/DecodeLabs-Internship/
-
 **🛍️ About**
 
 Fatima's Closet is a fashion destination for the whole family — Women, Men & Children.
